@@ -5,9 +5,16 @@
 
 # OTA Interview - ReactJs Button
 
-- npm install
-- npm run dev
+```
+npm install
+```
+
+```
+npm run dev
+```
 
 ## OTA Interview - String Scramble
 
-- node .\stringScramble.js
+```
+node .\stringScramble.js
+```
